@@ -1,0 +1,11 @@
+name: "The Australasian Mathematical Psychology Conference"
+output_dir: docs
+exclude:
+  - "README.*"
+navbar:
+  title: "AMPC2020"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
