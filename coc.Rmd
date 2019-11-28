@@ -1,9 +1,7 @@
 ---
+pagetitle: "AMPC2020"
 ---
 
-<br><br>
-
-## Code of Conduct
 
 
 

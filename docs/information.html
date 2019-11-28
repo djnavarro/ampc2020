@@ -12,7 +12,7 @@
 
 
 
-<title>program.utf8.md</title>
+<title>AMPC2020</title>
 
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -20,6 +20,9 @@
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/jqueryui-1.11.4/jquery-ui.min.js"></script>
+<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
+<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
@@ -249,6 +252,63 @@ $(document).ready(function () {
 
 
 
+<style type="text/css">
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+@media (max-width: 768px) {
+#TOC {
+  position: relative;
+  width: 100%;
+}
+}
+
+
+.toc-content {
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+div.main-container {
+  max-width: 1200px;
+}
+
+div.tocify {
+  width: 20%;
+  max-width: 260px;
+  max-height: 85%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  div.tocify {
+    width: 25%;
+  }
+}
+
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+.tocify ul, .tocify li {
+  line-height: 20px;
+}
+
+.tocify-subheader .tocify-item {
+  font-size: 0.90em;
+}
+
+.tocify .list-group-item {
+  border-radius: 0px;
+}
+
+
+</style>
+
+
 
 </head>
 
@@ -256,6 +316,16 @@ $(document).ready(function () {
 
 
 <div class="container-fluid main-container">
+
+
+<!-- setup 3col/9col grid for toc_float and main content  -->
+<div class="row-fluid">
+<div class="col-xs-12 col-sm-4 col-md-3">
+<div id="TOC" class="tocify">
+</div>
+</div>
+
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
 
 
 
@@ -273,22 +343,7 @@ $(document).ready(function () {
     <div id="navbar" class="navbar-collapse collapse">
       <ul class="nav navbar-nav">
         <li>
-  <a href="index.html">Home</a>
-</li>
-<li>
-  <a href="about.html">About</a>
-</li>
-<li>
-  <a href="location.html">Location</a>
-</li>
-<li>
-  <a href="register.html">Register</a>
-</li>
-<li>
-  <a href="program.html">Program</a>
-</li>
-<li>
-  <a href="coc.html">CoC</a>
+  <a href="information.html">Conference Information</a>
 </li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
@@ -307,13 +362,49 @@ $(document).ready(function () {
 
 
 <p><br><br></p>
-<div id="schedule-and-program" class="section level2">
-<h2>Schedule and Program</h2>
+<div id="abstract-submission" class="section level2">
+<h2>Abstract Submission</h2>
+<ul>
+<li>Submission portal for Abstracts</li>
+<li>Preference for Paper format. Options: Long 20 minutes (15 + 5), Short 10 minutes (8 + 2), No preference</li>
+</ul>
+<p><br><br></p>
+</div>
+<div id="conference-registration" class="section level2">
+<h2>Conference Registration</h2>
+<p><br><br></p>
+</div>
+<div id="conference-schedule" class="section level2">
+<h2>Conference Schedule</h2>
 <p>A detailed schedule and program of abstracts will be posted closer to the event. The overall plan, however, is to run all-day schedules on Wednesday and Thursday and a half-day on Friday. The conference dinner will be on Thursday night.</p>
+<p><br><br></p>
+</div>
+<div id="venue-and-accomodation" class="section level2">
+<h2>Venue and Accomodation</h2>
+<p>The venue for the conference will be the <a href="https://coogeebayhotel.com.au/">Coogee Bay Hotel</a> opposite the lovely Coogee Beach. We will not be arranging conference deals for accomodation, but there are many accommodation options in and around Coogee. A few possibilities are listed below:</p>
+<ul>
+<li><a href="https://www.ihg.com/crowneplaza/hotels/us/en/sydney/sydcb/hoteldetail?cm_mmc=GoogleMaps-_-CP-_-AU-_-SYDCB">Crowne Plaza Coogee</a></li>
+<li><a href="https://www.divehotel.com.au/">Dive Hotel</a></li>
+<li><a href="https://www.adinahotels.com/en/apartments/coogee-sydney/?gclid=Cj0KCQjwuNbsBRC-ARIsAAzITuc36WI9_zJtKVAOP9fgUpE3DokuA0ED96KvDzsabyRWOn4mJ2n6boYaAhVwEALw_wcB&amp;gclsrc=aw.ds">Adina Apartment Hotel, Coogee</a></li>
+</ul>
+<p><br><br></p>
+</div>
+<div id="code-of-conduct" class="section level2">
+<h2>Code of Conduct</h2>
+<p><br><br></p>
+</div>
+<div id="acknowledgment-of-country" class="section level2">
+<h2>Acknowledgment of Country</h2>
+<p><br><br></p>
+</div>
+<div id="organisers" class="section level2">
+<h2>Organisers</h2>
 </div>
 
 
 
+</div>
+</div>
 
 </div>
 
@@ -346,6 +437,32 @@ $(document).ready(function () {
 
 <!-- code folding -->
 
+<script>
+$(document).ready(function ()  {
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_').toLowerCase();
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = true;
+    options.smoothScroll = true;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>

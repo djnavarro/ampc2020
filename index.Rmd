@@ -1,4 +1,5 @@
 ---
+pagetitle: "AMPC2020"
 ---
 
 <h1 align="center">Australasian Mathematical Psychology Conference</h1>
