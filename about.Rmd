@@ -1,5 +1,14 @@
 ---
-title: "About This Website"
 ---
 
-More about this website.
+<br><br>
+
+## About AMPC
+
+blah blah we are great
+
+## Acknowledgment of Country
+
+here
+
+## Organisers

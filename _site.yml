@@ -9,3 +9,11 @@ navbar:
       href: index.html
     - text: "About"
       href: about.html
+    - text: "Location"
+      href: location.html
+    - text: "Register"
+      href: register.html
+    - text: "Program"
+      href: program.html
+    - text: "CoC"
+      href: coc.html
