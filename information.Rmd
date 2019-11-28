@@ -18,6 +18,8 @@ output:
 
 ## Conference Registration
 
+Link TBA
+
 <br><br>
 
 ## Conference Schedule
@@ -38,14 +40,24 @@ The venue for the conference will be the [Coogee Bay Hotel](https://coogeebayhot
 
 ## Code of Conduct
 
+All attendees, speakers, sponsors and volunteers at our conference are required to agree with the following code of conduct. Our conference is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices. We do not tolerate harassment of conference participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks, workshops, parties, Twitter and other online media.
 
-<br><br>
-
-## Acknowledgment of Country
-
+If you have any concerns during your time at the conference, please contact one of the organisers. Alternatively you can make an anonymous submission through our online portal. 
 
 <br><br>
 
 ## Organisers
 
+The AMPC conference organisers are:
+
+- Brett Hayes
+- Ben Newell
+- Chris Donkin
+- Danielle Navarro
  
+ 
+<br><br>
+
+## Acknowledgment of Country
+
+
