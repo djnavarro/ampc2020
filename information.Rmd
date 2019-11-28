@@ -11,8 +11,10 @@ output:
 
 ## Abstract Submission
 
-- Submission portal for Abstracts
-- Preference for Paper format. Options: Long 20 minutes (15 + 5), Short 10 minutes (8 + 2), No preference
+For AMPC 2020 we are proposing a mix of long and short talks. A long talk is allocated a total of 20 minutes (15 minutes for the talk, 5 minutes of questions), and a short talk is allocated 10 minutes (8 minutes for the talk, 2 minutes of questions).
+
+To submit your abstract, follow the link to the [submission portal](https://forms.gle/VzkCE29zU5NdovdK9).
+
 
 <br><br>
 
@@ -42,7 +44,9 @@ The venue for the conference will be the [Coogee Bay Hotel](https://coogeebayhot
 
 All attendees, speakers, sponsors and volunteers at our conference are required to agree with the following code of conduct. Our conference is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices. We do not tolerate harassment of conference participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks, workshops, parties, Twitter and other online media.
 
-If you have any concerns during your time at the conference, please contact one of the organisers. Alternatively you can make an anonymous submission through our online portal. 
+If you have any concerns during your time at the conference, please contact one of the organisers. 
+
+<!-- Alternatively you can make an anonymous submission through our online portal.  -->
 
 <br><br>
 
@@ -50,14 +54,14 @@ If you have any concerns during your time at the conference, please contact one 
 
 The AMPC conference organisers are:
 
-- Brett Hayes
-- Ben Newell
-- Chris Donkin
-- Danielle Navarro
+- Brett Hayes (b.hayes@unsw.edu.au)
+- Ben Newell (ben.newell@unsw.edu.au)
+- Chris Donkin (c.donkin@unsw.edu.au)
+- Danielle Navarro (d.navarro@unsw.edu.au)
  
  
 <br><br>
 
 ## Acknowledgment of Country
 
-
+We would like to acknowledge the Bedegal people who are the traditional custodians of the land on which the AMPC2020 meeting takes place.
