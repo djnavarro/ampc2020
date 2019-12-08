@@ -1,5 +1,9 @@
 ---
 pagetitle: "AMPC2020"
+output:
+  html_document:
+    includes:
+      in_header: header.html    
 ---
 
 <h1 align="center">Australasian Mathematical Psychology Conference</h1>
