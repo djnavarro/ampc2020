@@ -1,11 +1,10 @@
 <!DOCTYPE html>
 
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html>
 
 <head>
 
 <meta charset="utf-8" />
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
 <meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
@@ -100,7 +99,6 @@ code {
 }
 img {
   max-width:100%;
-  height: auto;
 }
 .tabbed-pane {
   padding-top: 12px;
@@ -249,6 +247,7 @@ $(document).ready(function () {
   border: none;
   display: inline-block;
   border-radius: 4px;
+  background-color: transparent;
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li {
@@ -277,6 +276,12 @@ $(document).ready(function () {
 }
 }
 
+@media print {
+.toc-content {
+  /* see https://github.com/w3c/csswg-drafts/issues/4434 */
+  float: right;
+}
+}
 
 .toc-content {
   padding-left: 30px;
@@ -383,7 +388,7 @@ div.tocify {
 </div>
 <div id="conference-registration" class="section level2">
 <h2>Conference Registration</h2>
-<p>Link TBA</p>
+<p>Registration for the conference is now open. Student registration is $120 and full registration is $220. The conference dinner will be held at <a href="https://www.barzura.com.au/">BarZura</a>. The dinner cost is $73 and there is a strict limit of 45 dinner tickets for sale. To register for the conference visit the <a href="https://www.eventbrite.com.au/e/australian-mathematical-psychology-conference-2020-tickets-5404801908">Eventbrite page</a></p>
 <p><br><br></p>
 </div>
 <div id="conference-schedule" class="section level2">
